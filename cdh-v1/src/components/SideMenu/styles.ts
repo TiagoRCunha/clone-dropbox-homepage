@@ -1,7 +1,7 @@
 import { styled } from '@material-ui/core'
 
 export const Container = styled("div")(({ theme }) => ({
-  lineHeight: "1.16rem",
+  // lineHeight: "1.16rem",
   zIndex: 10,
   position: "fixed",
   top: 0,
